@@ -31,7 +31,7 @@ sqroot()
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+
 ![output](./square%20root.png)
 
 ## Result:
